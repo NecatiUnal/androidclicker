@@ -67,6 +67,10 @@ flutter:
   #       - asset: fonts/TrajanPro.ttf
   #       - asset: fonts/TrajanPro_Bold.ttf
   #         weight: 700
-  #
-  # For details regarding fonts from package dependencies,
-  # see https://flutter.io/custom-fonts/#from-packages
+fonts:
+  - family: LatoLight
+    fonts:
+      - asset: Fonts/Lato-Light.ttf
+  - family: Righteous
+    fonts:
+      - asset: Fonts/Righteous-Regular.ttf
